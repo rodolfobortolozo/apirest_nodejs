@@ -3,9 +3,9 @@
 ###Iniciar o npm na pasta 
 `npm init -y`
 
-###Instalar os pacotes Express e o Cors.
+###Instalar os pacotes Express, Cors e o Body-parser.
 
-`npm i express cors`
+`npm i express cors body-parser`
 
 ### Instalar o Nodemon de forma Global
 
